@@ -2,6 +2,41 @@
 
 A push-based event delivery mechanism for Android that replaces epoll-based input handling, providing 20-30% lower latency and improved power efficiency.
 
+**Support this project:**
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-red?style=flat&logo=github-sponsors)](https://github.com/sponsors/dustinmcafee)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/dustinmcafee)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/dustinmcafee)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-₿-orange?style=flat&logo=bitcoin)](#crypto-donations)
+[![Ethereum](https://img.shields.io/badge/Ethereum-Ξ-blue?style=flat&logo=ethereum)](#crypto-donations)
+[![Solana](https://img.shields.io/badge/Solana-◎-purple?style=flat&logo=solana)](#crypto-donations)
+[![Monero](https://img.shields.io/badge/Monero-XMR-grey?style=flat&logo=monero)](#crypto-donations)
+
+<details>
+<summary id="crypto-donations">💰 Crypto Donations</summary>
+
+**Bitcoin (BTC)**
+```
+3QVD3H1ryqyxhuf8hNTTuBXSbczNuAKaM8
+```
+
+**Ethereum (ETH)**
+```
+0xaFE28A1Dd57660610Ef46C05EfAA363356e98DC7
+```
+
+**Solana (SOL)**
+```
+6uWx4wuHERBpNxyWjeQKrMLBVte91aBzkHaJb8rhw4rn
+```
+
+**Monero (XMR)**
+```
+8C5aCs7Api3WE67GMw54AhQKnJsCg6CVffCuPxUcaKoiMrnaicyvDch8M2CXTm1DJqhpHKxtLvum9Thw4yHn8zeu7sj8qmC
+```
+
+</details>
+
 ## Table of Contents
 
 1. [What is ESM?](#what-is-esm)
